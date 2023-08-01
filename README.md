@@ -2,10 +2,10 @@
 Graduate project implemented in the Track 'SQL with Python' of hyperskill.org's JetBrains Academy.
 
 # Technology / External Libraries
-Python 3.8,
-SQLite 3
-SQLAlchemy
-with packages: sqlite3, csv, sqlalchemy
+- Python 3.8
+- SQLite 3
+- SQLAlchemy
+- with packages: sqlite3, csv, sqlalchemy
 # Repository Contents
 The sources of main project tasks (4 stages).
 
